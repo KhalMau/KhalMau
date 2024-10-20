@@ -7,11 +7,13 @@
 ✉️ You can contact me at <a href="mailto:mau.wall95@gmail.com">mau.wall95@gmail.com</a></p>
 
 <h2 align="center">Skills</h2>
+<!-- Estilo para quitar subrayado y márgenes entre enlaces -->
 
-<p align="center">
+
+<p align="center" class="skills">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" height="50" alt="C#" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" />
   </a>
@@ -35,19 +37,3 @@
   </a>
 </p>
 
-
-
-<!--
-**KhalMau/KhalMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
