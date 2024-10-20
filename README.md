@@ -1,5 +1,5 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is khalmau
+<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is khalmau</p>
 ===============================================================================================================================
 
 Computer engineer | Software developer
@@ -7,7 +7,7 @@ Computer engineer | Software developer
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [mau.wall95@gmail.com](mailto:mau.wall95@gmail.com)
-
+<p align="center">
 ### Skills
 
 
