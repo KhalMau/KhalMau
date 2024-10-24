@@ -22,10 +22,10 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center" class="FrontEnd"> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" height="50" alt="Html" />
   </a>&nbsp;
-  <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" height="50" alt="Css" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -43,7 +43,7 @@
 <p align="center" class="BackEnd"> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" />
-  </a:
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" height="50" alt="MySql" />
   </a>
