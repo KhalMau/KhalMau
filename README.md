@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! Im Khalmau</h1>
 
 
-<p align="center">Computer Engineer | Software Developer</p>
+<p align="center">Software Engineer</p>
 
 <p align="center">🌍 I'm based in Chile <br>
 ✉️ You can contact me at <a href="mailto:mau.wall95@gmail.com">mau.wall95@gmail.com</a></p>
